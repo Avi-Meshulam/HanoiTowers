@@ -1,5 +1,5 @@
 # Hanoi Towers
-### Graphical demonstration of the mathematical game [The Tower of Hanoi](https://en.wikipedia.org/wiki/Tower_of_Hanoi) with Windows 8.1 Universal App
+### A Windows 8.1 Universal App, demonstrating the mathematical game [The Tower of Hanoi](https://en.wikipedia.org/wiki/Tower_of_Hanoi)
 		
 ![Hanoi Towers](https://github.com/PrisonerM13/HanoiTowers/blob/master/gif/HanoiTowers.gif "Hanoi Towers")
 
